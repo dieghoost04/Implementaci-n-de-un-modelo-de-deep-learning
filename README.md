@@ -25,9 +25,3 @@ SMA0401C            Aprendizaje e IA
 Se utilzo una arquitectura de aprendizaje profundo, en este caso fue una red convolutiva la cual se utilizo resolver un problema de clasificación con imágenes.
 Se utilizaron técnicas de regularización como lo es el data augmentation, para que nuestro dataset fuera mas variado.
 Se utilizaron técnicas de transfer learning como adoptar los pesos y arquitectura de una red en específico que se mostro útil para nuestro problema en específico.
-
-
-	
-
-El modelo puede generar predicciones o recomendaciones a través de la consola o una interfaz
-  
