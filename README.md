@@ -7,6 +7,7 @@ En este repositorio se encuentran los siguientes elementos:
 - test: En este carpetas se encuentran las imágenes que se pueden utilizar para la evaluación del modelo, dentro de este se puede encontrar dos carpetas en las que se encuentran las imágenes correspondientes a cada clase
 - modelo_deep_learning.py: En este código se encuentra la clase 'cnn', la cual contiene todos los métodos que se utilizaron para entrenar este modelo, visualizar los cambios que se hicieron en las imágenes y las métricas utilizadas.
 - reporte.pdf: En este reporte se puede encontrar información sobre las decisiones que se tomaron en la preparación de los datos y en el entrenamiento del modelo.
+- best_model.h5: En este se encuentran los pesos que resultaron de nuestro entrenamiento.
 
 Muchas de las decisiones que se tomaron para entrenar este modelo se basaron en el artículo de (Lee & Lim, 2022), en el cual se abordo un problema similar con radiografías de pecho para pacientes con COVID-19.
 
