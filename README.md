@@ -3,7 +3,7 @@ Se decidió abordar el problema de clasificación de radiografías en el pecho d
 
 Este dataset se recupero de la plataforma de kaggle en la siguiente liga: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
-Importante: No pude subir los pesos ('best_model.h5') al repositorio ya que sobrepasaba los 25 mb, este se encuentra en la siguiente liga https://drive.google.com/drive/folders/1FoMaGTVE2ClYeI2tpbjGSRqrbbLgWSrw?usp=drive_link 
+Importante: No se puede subir los pesos ('best_model.h5') al repositorio ya que sobrepasaba los 25 mb, este se encuentra en la siguiente liga https://drive.google.com/drive/folders/1FoMaGTVE2ClYeI2tpbjGSRqrbbLgWSrw?usp=drive_link 
 
 En este repositorio se encuentran los siguientes elementos:
 - test: En este carpeta comprimída se encuentra un set de imágenes que se pueden utilizar para la evaluación del modelo, dentro de este se puede encontrar dos carpetas en las que se encuentran las imágenes correspondientes a cada clase.
